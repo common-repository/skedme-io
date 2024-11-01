@@ -1,0 +1,59 @@
+
+.skedme-position-group {
+    clear: both;
+    width: 200px;
+    padding-bottom: 8px;
+}
+
+.skedme-position-group form {
+    display: inline-block;
+}
+
+.skedme-position-group form:last-child {
+    float: right;
+}
+
+.skedme-settings-form h3 {
+    margin-bottom: 4px !important;
+}
+
+.skedme-input-group {
+    max-width: 400px;
+    padding-top: 12px;
+    padding-left: 4px;
+}
+
+.skedme-label {
+    font-size: 14px;
+    padding-bottom: 4px;
+    display: block;
+    padding-left: 2px;
+    font-weight: bold;
+}
+
+.skedme-radio {
+}
+
+.skedme-radio input {
+    margin-left: 8px;
+}
+
+.skedme-input {
+    max-width: 200px;
+    margin-left: 4px;
+}
+
+.skedme-submit {
+    padding-left: 4px;
+}
+
+.skedme-range input {
+    width: 200px;
+    vertical-align: middle;
+}
+
+.skedme-range span {
+    display: inline-block;
+    margin-left: 12px;
+    font-size: 14px;
+}
